@@ -98,10 +98,8 @@ PV / UV       漏斗分析       RFM分层       品类贡献
 
 ### 总览仪表盘
 
-```
-
 ![Dashboard](images/dashboard.png)
-```
+
 
 ---
 
